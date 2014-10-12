@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "trucktour"
+        }, 
+        "trucktour": {
+            "applicationId": "f4UdiexiBC8aMtYV12Wq3j5QS4TexuVKfyXAyz5h", 
+            "masterKey": "TTbbnnRa31VO5KXVFfXC5GEugumMc54KNNRHtG5Q"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
